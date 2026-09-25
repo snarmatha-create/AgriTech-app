@@ -69,7 +69,7 @@
 ![Physical Board Connection Photo](Working%20hardware.jpg)
 
 ### 🎬 System Demonstration Video
-[▶ Click Here to Watch the Working Hardware Video](working_demo.mp4)
+[▶ Click Here to Watch the Working Hardware Video](Working%20demo.mp4)
 
 ## 💻 Microcontroller Core Firmware Code (`main.ino`)
 ```cpp
