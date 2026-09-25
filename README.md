@@ -15,6 +15,10 @@
 * **Connectivity:** ESP-01 Wi-Fi Module
 * **Power & Control:** 5V Relay Module, DC Water Pump, 9V Battery, Breadboard & Jumper Wires
 
+  ## 🗺️ System Architecture Block Diagram
+
+![System Block Diagram](Block%20diagram.jpg)
+
 ## 🔄 Working Logic
 * **Irrigation Loop:** Automatically turns the water pump **ON** via the relay when the soil moisture sensor reads **DRY**.
 * **Rain Override:** Instantly cuts power to the pump if the rain sensor detects sudden rainfall, preventing overwatering.
