@@ -59,7 +59,7 @@
 ![Simulation Workspace Image](Simulation%20circuit.jpg)
 
 ## 📐 Circuit Schematics
-![Circuit Diagram Schematic](Circuit%20Schematics.jpg)
+![Circuit Diagram Schematic](Circuit%20schematics.jpg)
 * **LCD Screen:** A4 (SDA), A5 (SCL)
 * **Ultrasonic Sensor:** D8 (Trig), D7 (Echo)
 * **Relay Switch Module:** D3 (Control Output)
