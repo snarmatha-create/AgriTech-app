@@ -66,7 +66,7 @@
 * **Analog Sensors:** A0 (Soil Moisture Input), A1 (Rain Sensor Input)
 
 ## 📸 Working Hardware
-![Physical Board Connection Photo](hardware.jpg)
+![Physical Board Connection Photo](Working%20hardware.jpg)
 
 ### 🎬 System Demonstration Video
 [▶ Click Here to Watch the Working Hardware Video](working_demo.mp4)
