@@ -26,7 +26,7 @@
 * Features a safety warning banner that pops up immediately when automated rain-override mode is activated.
 
 ### 🔗 Live Project Dashboard
-[🌐 Click Here to Open Live AgriTech Dashboard Interface](https://claude.ai)
+[🌐 Click Here to Open Live AgriTech Dashboard Interface](https://claude.ai/artifact/LLBziqe1ok64LSgxPPoyp1)
 
 ## 💻 App Interface Source Code (`index.html`)
 ```html
